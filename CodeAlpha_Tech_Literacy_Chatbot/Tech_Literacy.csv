@@ -1,0 +1,35 @@
+﻿Question,Answer
+What is a computer?,"An electronic device that manipulates information or data, following a set of instructions called software."
+What is Artificial Intelligence (AI)?,"Technology that allows computers to mimic human intelligence, such as learning from data and solving problems."
+How does the internet work?,It is a global network of billions of computers connected by cables and wireless signals to share information.
+What is Hardware?,"The physical parts of a computer you can touch, like the keyboard, monitor, and internal circuits."
+What is the Cloud?,"It refers to servers accessed over the internet, allowing you to store and access data without using your local hard drive."
+What is a CPU?,"The Central Processing Unit acts as the ""brain"" of the computer, executing instructions and processing data."
+What is RAM?,Random Access Memory is short-term storage that allows computers to access data quickly for active tasks.
+What is a motherboard?,"The main circuit board that connects all computer components like the CPU, memory, and hard drives together."
+What is the difference between HDD and SSD?,"HDDs use spinning disks to store data, while SSDs use flash memory, making them significantly faster and more durable."
+What is a GPU?,"A Graphics Processing Unit is a specialized processor designed to handle images, videos, and complex 3D rendering."
+What is BIOS?,The Basic Input/Output System is software that initializes your hardware and starts the operating system during boot-up.
+What is an Operating System?,Software like Windows or macOS that manages computer hardware and allows you to run applications.
+What is the difference between System and Application software?,"System software runs the hardware, while Application software helps users perform specific tasks like browsing or typing."
+What is Open Source software?,"Software with source code that anyone can inspect, modify, and enhance (e.g., Linux or VLC)."
+What is a Driver?,A small piece of software that tells your operating system how to communicate with hardware like printers or cameras.
+What is Virtualization?,Technology that allows you to run multiple virtual computers or operating systems on a single physical machine.
+What is an IP address?,"A unique string of numbers that identifies a device on a network or the internet, acting like a digital home address."
+How does DNS work?,"The Domain Name System acts as the ""phonebook"" of the internet, converting names like https://www.google.com/search?q=google.com into IP addresses."
+What is a Router?,"A device that directs data traffic between different networks, such as connecting your home devices to the internet."
+What is the difference between HTTP and HTTPS?,"HTTP is the standard protocol for web data, while HTTPS adds a layer of encryption to keep your data secure."
+What is a Firewall?,A security system that monitors and controls incoming and outgoing network traffic based on specific safety rules.
+What is a VPN?,"A Virtual Private Network creates a secure, encrypted tunnel for your internet traffic to protect your privacy."
+What is Machine Learning?,A branch of AI where computers learn from data and improve their performance without being explicitly programmed.
+What is a Neural Network?,An AI model inspired by the human brain that uses layers of interconnected nodes to recognize complex patterns.
+What is a Large Language Model (LLM)?,"An AI trained on massive amounts of text to understand and generate human-like language (e.g., ChatGPT or Gemini)."
+What is the Cloud?,On-demand delivery of computing services like storage and processing over the internet instead of a local drive.
+What is Blockchain?,A decentralized digital ledger that records transactions across many computers so the record cannot be altered.
+What is an API?,An Application Programming Interface is a set of rules that allows two different software programs to talk to each other.
+What is Malware?,"Malicious software (like viruses or spyware) designed to damage, disrupt, or gain unauthorized access to a computer."
+What is Phishing?,A cyber-attack where scammers send fake emails or messages to trick you into revealing sensitive information.
+What is 2FA (Two-Factor Authentication)?,A security process requiring two different forms of identification to access an account for extra protection.
+What is Encryption?,"The process of scrambling data into a code so that only people with a ""key"" can read it."
+What is DL?,Deep learning is the subject which deals with the artificial neural netwrok caled neurons.
+What is CV?,CV stands for computer vision which deals with the study realed to the analysing the image components.
