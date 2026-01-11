@@ -51,3 +51,4 @@ Tracking ID Assignment
             ↓
 Real-Time Display with IDs
 
+The application runs in a continuous loop to process live video streams. The detection and tracking stop when the user presses the ESC key or closes the video window, after which the webcam is released and all OpenCV resources are safely deallocated.
