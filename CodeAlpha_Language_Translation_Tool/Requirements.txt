@@ -1,0 +1,10 @@
+# --- Core Requirements ---
+googletrans==3.1.0a0
+
+# --- GUI Enhancements ---
+Tkinter is included in standard Python 
+# but if you use Linux, run: sudo apt-get install python3-tk
+
+# Utilities (Optional based on features)
+pyperclip==1.8.2
+pyttsx3==2.90
